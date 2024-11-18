@@ -1,0 +1,14 @@
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\bin\Debug\net8.0\EqualityValidator.exe
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\bin\Debug\net8.0\EqualityValidator.deps.json
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\bin\Debug\net8.0\EqualityValidator.runtimeconfig.json
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\bin\Debug\net8.0\EqualityValidator.dll
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\bin\Debug\net8.0\EqualityValidator.pdb
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.dll
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\refint\EqualityValidator.dll
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.pdb
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\EqualityValidator.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Escritorio\Utel\programacion-estructurada\EqualityValidator\EqualityValidator\obj\Debug\net8.0\ref\EqualityValidator.dll
